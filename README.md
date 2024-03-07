@@ -8,4 +8,4 @@ Logistic Regression achieved the highest accuracy among the models, approximatel
 
 Listed the models in descending order of accuracy:
 
-Logistic Regression (83.24%), XGBoost (80.54%), Random Forest (77.84%), Support Vector Machine (72.43%), Decision Tree (71.35%), K-Nearest Neighbors (62.70%).
+Logistic Regression (83.24%), XGBoost (80.54%), Random Forest (77.84%), Support Vector Machine (72.43%), Decision Tree (71.35%).
